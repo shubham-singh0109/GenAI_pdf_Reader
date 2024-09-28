@@ -1,4 +1,4 @@
-# pdfGenAI
+# Read your file with AI
 
 ![Demo Image](UserInterface.png)
 
