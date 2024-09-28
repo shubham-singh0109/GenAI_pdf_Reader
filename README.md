@@ -1,6 +1,6 @@
 # pdfGenAI
 
-![Demo Image](pic09.png)
+![Demo Image](UserInterface.png)
 
 ## Overview
 The PDF Information Extractor is a powerful application that utilizes the Langchain framework to read multiple PDF files and extract information based on user-defined prompts. This project is designed to simplify the process of retrieving specific information from large text PDF documents, making it an invaluable tool for researchers, students, and professionals alike.
