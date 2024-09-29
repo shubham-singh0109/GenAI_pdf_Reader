@@ -25,13 +25,13 @@ The PDF Information Extractor is a powerful application that utilizes the Langch
 Clone the project
 
 ```bash
-  git clone https://github.com/shubham-singh0109/pdfGenAI.git
+  git clone https://github.com/shubham-singh0109/pdf_GenAI_Reader.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd pdfGenAI
+  cd pdf_GenAI_Reader
 ```
 
 ## Create a .env file and add your Gemini API Key
