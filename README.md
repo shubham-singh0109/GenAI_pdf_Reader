@@ -46,5 +46,5 @@ Go to the project directory
 
 ## Run the Application
 ```bash
-  streamlit run app.py
+  streamlit run main.py
 ```
